@@ -20,14 +20,6 @@ Required:
 2. Nodejs file is created in sails.js framework of nodejs [Sails.js will provide a local server where you can make curl request from php script]
 
 
-
-Note:
-This project is developed to help the developers.
-To contribute to the developer of this project, Send Ethers on this address
-0xa9828F54Fc2884B094b4a29b2365e1eB31BBa764
-
-
-
 Following are the dependencies for sails.js environment:
   *  "ejs": "2.3.4",
   * "ethereumjs-tx": "^1.3.3",
@@ -49,3 +41,12 @@ Following are the dependencies for sails.js environment:
   * "sails-disk": "~0.10.9",
   * "web3": "^0.20.0",
   * "web3-eth-accounts": "^1.0.0-beta.24"
+  
+  
+  
+Note:
+This project is developed to help the developers.
+To contribute to the developer of this project, Send Ethers on this address
+0xa9828F54Fc2884B094b4a29b2365e1eB31BBa764
+
+
